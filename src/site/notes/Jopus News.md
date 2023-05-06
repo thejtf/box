@@ -4,9 +4,9 @@
 
 
 
-# Jopus News📦
+# Opus News Plan📦
 
-## Zettelkästen 方法
+## 计划初心
 
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0ad6563-0fdb-4dbf-b383-1b88fc07d690_635x357.jpeg)
