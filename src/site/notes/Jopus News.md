@@ -4,9 +4,9 @@
 
 
 
-# Jopus News 📦
+# Opus News Project
 
-# 🗃 透明盒子计划
+# 📦 透明盒子计划
 
 这是一个基于 Zettelkästen 方法构建在 GitHub 上的个人知识库。在这个知识库中，我记录了自己所知道的一切，包括读书笔记、知识点总结、笔记记录。
 
