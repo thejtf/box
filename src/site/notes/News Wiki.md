@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/news-wiki/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/news-wiki/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
 ---
 
 
