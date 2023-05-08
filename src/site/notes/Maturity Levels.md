@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maturity-levels/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/maturity-levels/","dg-note-icon":"signpost","dgPassFrontmatter":true,"noteIcon":"signpost","created":"","updated":""}
 ---
 
 
