@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/News Wiki/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"dg-note-icon":2,"dg-created":"2023-05-07T09:00:00+08:00","dg-updated":"2023-05-09T23:00:00+08:00","tags":["wiki","introduction"],"permalink":"/News Wiki/","dgPassFrontmatter":true,"noteIcon":2,"created":"2023-05-07T09:00:00+08:00","updated":"2023-05-09T23:00:00+08:00"}
 ---
 
 
