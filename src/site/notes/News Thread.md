@@ -19,6 +19,7 @@ In this forest, each of my thoughts is a tree, growing from a sapling to maturit
 
 
 # ✍️ English Writing
+
 This is an English composition project. Through this project, I aim to hone my English writing skills. I believe there is no means of expression that is more profound, more composed or freer than writing.
 
 [^1]: This passage is quoted from the digital book "[Make Something Wonderful](https://book.stevejobsarchive.com/)" published by [Steve Jobs Archive](https://stevejobsarchive.com/).
