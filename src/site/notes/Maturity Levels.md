@@ -24,5 +24,5 @@ Stones (![Maturity Level: stone|14](https://hermitage.utsob.me/img/stone.svg)) a
 Signposts (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpost.svg)) are notes that allows us to navigate easily (e.g. Collection of books or writings).
 
 > [!Tips] 
-> Maturity Levels are subjective. The best way to undestand a person is to listen to that person directly.And the best way to understand Jopus(me) is to vist this website to observe what me wrote.
+> Maturity Levels is subjective. The best way to understand a person is to listen to that person directly. The best way to understand Jopus(me) is to vist this website to observe what I have written.
 
