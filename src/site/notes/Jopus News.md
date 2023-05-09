@@ -12,7 +12,7 @@
 
 # 📰 News Wiki 
 
-[[News Wiki\|News Wiki]] is my personal knowledge repository built on GitHub based on the Zettelkästen method. In this knowledge repo, I record everything my thoughts, including `book excerpt`, `knowledge`,`summaries` and `flash mind`.
+[[News Wiki\|News Wiki]] is my personal knowledge repository built on GitHub based on the Zettelkästen method. In this knowledge repo[^1] , I record everything my thoughts, including `book excerpt`, `knowledge`,`summaries` and `flash mind`.
 
 
 # 🌲 Thinking Tree
@@ -22,3 +22,5 @@ In this forest, each of my thoughts is a tree, growing from a sapling to maturit
 
 # ✍️ English Writing
 This is an English composition project. Through this project, I aim to hone my English writing skills. I believe there is no means of expression that is more profound, more composed or freer than writing.
+
+[^1]: Here, I'm using the word repo in place of the word [repository].
