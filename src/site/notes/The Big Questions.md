@@ -6,4 +6,4 @@
 # 📗Introduction
 A Short Introduction to Philosophy
 
-this is
+this is a
