@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-note-icon":"signpost","permalink":"/jopus-news/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"","updated":""}
+{"dg-publish":true,"dg-home":true,"dg-note-icon":"signpost","permalink":"/Jopus News/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"","updated":""}
 ---
 
 
