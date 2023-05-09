@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-note-icon":"signpost","title":"Jopus News","dg-pinned":true,"permalink":"/News Thread/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"","updated":""}
+{"dg-publish":true,"dg-home":true,"dg-note-icon":"signpost","title":"News Thread","dg-pinned":true,"permalink":"/News Thread/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"","updated":""}
 ---
 
 
