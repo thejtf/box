@@ -10,7 +10,7 @@
 
 # 📰 News Wiki 
 
-[[News Wiki\|News Wiki]] is my personal knowledge repository built on GitHub based on the Zettelkästen method. In this knowledge repo[^2], I record everything my thoughts, including `book excerpt`, `knowledge`,`summaries` and `flash mind`.
+[[News Wiki\|News Wiki]] is my personal knowledge repository built on GitHub based on the Zettelkästen method. In this knowledge repo[^2], I record everything in my thoughts, including `book excerpt`, `knowledge`,`summaries` and `flash mind`.
 
 
 # 🌲 Thinking Tree
