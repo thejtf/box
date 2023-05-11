@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":2,"dg-created":"2023-05-07T09:00:00+08:00","dg-updated":"2023-05-09T23:00:00+08:00","tags":["wiki","introduction"],"permalink":"/Tiger Wiki/","dgPassFrontmatter":true,"noteIcon":2,"created":"2023-05-07T09:00:00+08:00","updated":"2023-05-09T23:00:00+08:00"}
+{"dg-publish":true,"dg-note-icon":2,"dg-created":"2023-05-07T09:00:00+08:00","dg-updated":"2023-05-11T22:50:00+08:00","tags":["wiki","introduction"],"permalink":"/Tiger Wiki/","dgPassFrontmatter":true,"noteIcon":2,"created":"2023-05-07T09:00:00+08:00","updated":"2023-05-11T22:50:00+08:00"}
 ---
 
 
@@ -7,8 +7,8 @@
 
 [[Tiger Wiki\|Tiger Wiki]] is a personal knowledge base built on GitHub based on the Zettelkästen method. In this knowledge repo, I record everything I thought, including reading notes, knowledge summaries, note-taking ect.
 
-## 🐯 Why is it named tiger wiki ?
-Because my grandfather often called me "litter northeast tiger", so in memory of my grandfather who passed away long ago, I call this wiki "Tiger Wiki". The tiger has no friends, the tiger only needs a forest. Each of my ideas is a seed. Here is the forest composed of my ideas. So I named it `Jopus Forest`.
+## 🐯 Why such a named for it?
+Because my grandfather often called me "litter northeast tiger", so in memory of my grandfather who passed away long ago, I call this wiki `Tiger Wiki`. As we know, The tiger has no friends in forest, the tiger only needs a forest. Each of my ideas is a seed. Here is the forest composed of my ideas. So I named it `Jopus Forest`.
 
 ## 💡 Why build a personal knowledge base?
 
