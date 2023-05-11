@@ -8,7 +8,7 @@
 [[Tiger Wiki\|Tiger Wiki]] is a personal knowledge base built on GitHub based on the Zettelkästen method. In this knowledge repo, I record everything I thought, including reading notes, knowledge summaries, note-taking ect.
 
 ## 🐯 Why such a named for it?
-Because my grandfather often called me "litter northeast tiger", so in memory of my grandfather who passed away long ago, I call this wiki `Tiger Wiki`. As we know, The tiger has no friends in forest, the tiger only needs a forest. Each of my ideas is a seed. Here is the forest composed of my ideas. So I named it `Jopus Forest`.
+Because my grandfather often called me "litter siberian tiger", so in memory of my grandfather who passed away long ago, I call this wiki `Tiger Wiki`. As we know, The tiger has no friends in forest, the tiger only needs a forest. Each of my ideas is a seed. Here is the forest composed of my ideas. So I named it `Jopus Forest`.
 
 ## 💡 Why build a personal knowledge base?
 
