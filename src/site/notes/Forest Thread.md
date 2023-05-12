@@ -22,5 +22,5 @@ In this forest, each of my thoughts is a tree, growing from a sapling to maturit
 
 This is an English composition project. Through this project, I aim to hone my English writing skills. I believe there is no means of expression that is more profound, more composed or freer than writing.
 
-[^1]:  [Sassoon](https://allpoetry.com/Siegfried-Sassoon), a writer, comic artist, artist and programmer, a core figure in the Ruby community, commonly known as "_why". On August 19, 2009, he mysteriously disappeared and "burned" many of his works. This is a passage he wrote. Here is his [wiki](https://en.wikipedia.org/wiki/Why_the_lucky_stiff)
+[^1]: Siegfried Sassoon was perhaps the most innocent of the war poets. This verse is derived from his poem [In Me, Past, Present, Future meet](https://allpoetry.com/In-Me,-Past,-Present,-Future-meet).
 [^2]: Here, I'm using the word repo in place of the word [repository].
