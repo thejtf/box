@@ -5,7 +5,7 @@
 
 ## ✍️ Introduction
 
-[[Tiger Wiki\|Tiger Wiki]] is a diatal garden based on the Zettelkästen method. In this knowledge repo, I record everything I know, including reading notes, knowledge summaries, note-taking ect.
+[[Tiger Wiki\|Tiger Wiki]] is a diatal forest based on the Zettelkästen method. In this knowledge repo, I record everything I know, including reading notes, knowledge summaries, note-taking ect.
 
 ## 🐯 Why such a named for it?
 Because my grandfather often called me "litter siberian tiger", so in memory of my grandfather who passed away long ago, I call this wiki `Tiger Wiki`. As we know, The tiger has no friends in forest, the tiger only needs a forest. Each of my ideas is a seed. Here is the forest composed of my ideas. So I named it `Jopus Forest`.
@@ -20,4 +20,4 @@ For me, the reasons for building a personal knowledge repo are as follows:
 
 ## 🗒️ Zettelkästen method
 
-Zettelkästen is a note-taking method based on a box of small paper cards as the core. It was proposed by German sociologist Niklas Luhmann. The core of this method is to classify and find the notes by dividing them into different types and organizing the learned knowledge into small modules. This article will introduce the specific practice of the Zettelkästen method.
+Zettelkästen is a note-taking method based on a box of small paper cards as the core. It was proposed by German sociologist Niklas Luhmann. The core of this method is to classify and find the notes by dividing them into different types and organizing the learned knowledge into small modules. 
