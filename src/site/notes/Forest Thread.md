@@ -3,7 +3,7 @@
 ---
 
 
-> [!quote] Sassoon (his masterpiece)
+> [!quote] Sassoon (his opus)
 > **In me the tiger sniffs the rose.**[^1]
 
 
