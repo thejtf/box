@@ -5,7 +5,3 @@
 
 # 🌲Tree
 
-TTTTT
-
-> [!info] infoname
-> text
