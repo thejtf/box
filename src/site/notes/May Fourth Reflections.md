@@ -28,9 +28,9 @@ Practical rather than empty talk[^5]
 Scientific rather than imaginary[^6]
 
 
-[^1] Independent rather than servile:  One should have the ability to think independently rather than follow others blindly. Analyze things based on one's own knowledge, wisdom and insights, pursue freedom, independence and equality.
+[^1]:Independent rather than servile:  One should have the ability to think independently rather than follow others blindly. Analyze things based on one's own knowledge, wisdom and insights, pursue freedom, independence and equality.
 
-[^2] Progressive rather than conservative:  The times are constantly changing and developing. Our culture cannot remain unchanged. We must keep innovating and keep up with the trend of the times. Otherwise, we will become outdated and eliminated by the world.
+[^2]:Progressive rather than conservative:  The times are constantly changing and developing. Our culture cannot remain unchanged. We must keep innovating and keep up with the trend of the times. Otherwise, we will become outdated and eliminated by the world.
 
 [^3] Enterprising rather than reclusive:  For people who are reclusive, in a good sense they can be called literati, but in a bad sense they can be called escapists avoiding reality. Now in troubled times, how can we allow escape? We should explore like Columbus and fight evil forces to revive the country and bring hope to the nation.
 
