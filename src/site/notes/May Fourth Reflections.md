@@ -28,20 +28,14 @@ Practical rather than empty talk[^5]
 Scientific rather than imaginary[^6]
 
 
-[^1] Independent rather than servile:  
-One should have the ability to think independently rather than follow others blindly. Analyze things based on one's own knowledge, wisdom and insights, pursue freedom, independence and equality.
+[^1] Independent rather than servile:  One should have the ability to think independently rather than follow others blindly. Analyze things based on one's own knowledge, wisdom and insights, pursue freedom, independence and equality.
 
-[^2] Progressive rather than conservative:  
-The times are constantly changing and developing. Our culture cannot remain unchanged. We must keep innovating and keep up with the trend of the times. Otherwise, we will become outdated and eliminated by the world.
+[^2] Progressive rather than conservative:  The times are constantly changing and developing. Our culture cannot remain unchanged. We must keep innovating and keep up with the trend of the times. Otherwise, we will become outdated and eliminated by the world.
 
-[^3] Enterprising rather than reclusive:  
-For people who are reclusive, in a good sense they can be called literati, but in a bad sense they can be called escapists avoiding reality. Now in troubled times, how can we allow escape? We should explore like Columbus and fight evil forces to revive the country and bring hope to the nation.
+[^3] Enterprising rather than reclusive:  For people who are reclusive, in a good sense they can be called literati, but in a bad sense they can be called escapists avoiding reality. Now in troubled times, how can we allow escape? We should explore like Columbus and fight evil forces to revive the country and bring hope to the nation.
 
-[^4] Worldly rather than isolationist:  
-The current international situation is closely linked. Even powerful countries cannot ignore diplomacy. Absorbing and learning from the system and experience of other countries has become a trend. If our country continues to insist on self-sufficiency, what we achieve may not necessarily suit social development and the current world.
+[^4] Worldly rather than isolationist:  The current international situation is closely linked. Even powerful countries cannot ignore diplomacy. Absorbing and learning from the system and experience of other countries has become a trend. If our country continues to insist on self-sufficiency, what we achieve may not necessarily suit social development and the current world.
 
-[^5] Practical rather than empty talk:   
-Europe advocates experimental philosophy, starting from life and connecting with reality. However, our country advocates empty words like courtesy, righteousness, loyalty and filial piety without focusing on life and reality. No matter how well said, it cannot save the people.
+[^5] Practical rather than empty talk:   Europe advocates experimental philosophy, starting from life and connecting with reality. However, our country advocates empty words like courtesy, righteousness, loyalty and filial piety without focusing on life and reality. No matter how well said, it cannot save the people.
 
-[^6] Scientific rather than imaginary:  
-To get rid of ignorance, we must believe in science, respect reason rather than imagination. Young people today should practice and be scientific instead of relying on imagination to save the country in order to succeed. 
+[^6] Scientific rather than imaginary:  To get rid of ignorance, we must believe in science, respect reason rather than imagination. Young people today should practice and be scientific instead of relying on imagination to save the country in order to succeed. 
