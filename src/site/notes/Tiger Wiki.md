@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":2,"dg-created":"2023-05-07T09:00:00+08:00","dg-updated":"2023-05-12T11:38:00+08:00","tags":["wiki","introduction"],"permalink":"/Tiger Wiki/","dgPassFrontmatter":true,"noteIcon":2,"created":"2023-05-07T09:00:00+08:00","updated":"2023-05-12T11:38:00+08:00"}
+{"dg-publish":true,"dg-note-icon":2,"dg-path":"Thread/Tiger Wiki.md","dg-created":"2023-05-07T09:00:00+08:00","dg-updated":"2023-05-14T00:07:00+08:00","tags":["wiki","introduction"],"permalink":"/Thread/Tiger Wiki/","dgPassFrontmatter":true,"noteIcon":2,"created":"2023-05-07T09:00:00+08:00","updated":"2023-05-14T00:07:00+08:00"}
 ---
 
 
