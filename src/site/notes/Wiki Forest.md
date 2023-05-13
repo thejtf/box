@@ -15,7 +15,7 @@
 
 ## 🌲 Thinking Tree
 
-In this forest, each of my thoughts is a tree, growing from a sapling to maturity and even withering away. I record the [[Maturity Levels\|Maturity Levels]] of developing an idea by the stages of its growth.
+In this forest, each of my thoughts is a tree, growing from a seeding to maturity and even withering away. I record the [[Maturity Levels\|Maturity Levels]] of developing an idea by the stages of its growth.
 
 
 ## ✍️ English Writing
