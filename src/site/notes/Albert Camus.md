@@ -6,7 +6,7 @@
 #### Brief Introduction
 Albert Camus was a famous French existentialist philosopher and writer. He was born in 1913 and died in 1960. He won the Nobel Prize in Literature in 1957.
 
-#### Famous Quote
+#### Famous Quotes
 The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.
 
 Real generosity towards the future lies in giving all to the present.
