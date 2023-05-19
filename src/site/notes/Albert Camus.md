@@ -12,3 +12,10 @@ The only way to deal with an unfree world is to become so absolutely free that y
 
 Real generosity towards the future lies in giving all to the present.
 ― Albert Camus, Notebooks 1935-1942
+
+Don’t walk in front of me… I may not follow  
+Don’t walk behind me… I may not lead  
+Walk beside me… just be my friend
+
+You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
+
