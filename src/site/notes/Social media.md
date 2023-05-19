@@ -13,7 +13,7 @@ So what do people like?
 
 Or in other words, what do people produce, what does social media accept?
 
-Then what is the most contagious? Virus, no, it's emotion. 
+Then what is the most contagious? ~~Virus~~~, no, it's emotion. 
 
 So when a platform has free flow of information, it eventually becomes a shelter for emotions, or even more extreme, a "cesspool". Because emotions do not have much value, but emotions are a very good medium for conveying information. 
 
