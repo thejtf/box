@@ -11,3 +11,4 @@ Albert Camus was a famous French existentialist philosopher and writer. He was b
 The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.
 
 Real generosity towards the future lies in giving all to the present.
+― Albert Camus, Notebooks 1935-1942
