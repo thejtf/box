@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"stone","dg-created":"2023-05-19T15:00:00+08:00","dg-updated":"2023-05-19T15:00:00+08:00","tags":["create","tastes"],"dg-path":"Quote/Albert Camus.md","permalink":"/Quote/Albert Camus/","dgPassFrontmatter":true,"noteIcon":"stone","created":"2023-05-19T15:00:00+08:00","updated":"2023-05-19T15:00:00+08:00"}
+{"dg-publish":true,"dg-note-icon":"stone","dg-created":"2023-05-19T15:00:00+08:00","dg-updated":"2023-05-19T15:00:00+08:00","tags":["camus","quote"],"dg-path":"Quote/Albert Camus.md","permalink":"/Quote/Albert Camus/","dgPassFrontmatter":true,"noteIcon":"stone","created":"2023-05-19T15:00:00+08:00","updated":"2023-05-19T15:00:00+08:00"}
 ---
 
 
