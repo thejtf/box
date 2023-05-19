@@ -19,3 +19,4 @@ Walk beside me… just be my friend
 
 You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
 
+Nobody realizes that some people expend tremendous energy merely to be normal.
