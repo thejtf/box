@@ -45,3 +45,35 @@ Courage is knowing what not to fear.
 
 There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
 
+Necessity is the mother of invention.
+
+A house that has a library in it has a soul.
+
+Those who are able to see beyond the shadows and lies of their culture will never be understood, let alone believed, by the masses.
+
+A house that has a library in it has a soul.
+
+The object of education is to teach us to love what is beautiful.
+― The Republic
+
+Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.
+
+The greatest wealth is to live content with little.
+
+Love is simply the name for the desire and pursuit of the whole.
+― The Symposium
+
+An empty vessel makes the loudest sound, so they that have the least wit are the greatest babblers.
+
+Character is simply habit long continued.
+
+Beauty lies in the eyes of the beholder
+
+People are like dirt. They can either nourish you and help you grow as a person or they can stunt your growth and make you wilt and die.
+
+I would teach children music, physics, and philosophy; but most importantly music, for the patterns in music and all the arts are the keys to learning
+
+I would teach children music, physics, and philosophy; but most importantly music, for the patterns in music and all the arts are the keys to learning
+
+
+
