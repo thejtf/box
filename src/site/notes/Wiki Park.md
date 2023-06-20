@@ -7,8 +7,8 @@
 
 [[Wiki Park\|Wiki Park]] is a digital park based on the Zettelkästen method. In this knowledge repo, I record everything I know, including reading notes, knowledge summaries, note-taking ect.
 
-## 🐯 Why such a named for it?
-Because my grandfather often called me "big siberian tiger", so in memory of my grandfather who passed away long ago, I call this wiki `Tiger Wiki`. As we know, The tiger has no friends in forest, the tiger only needs a forest. Each of my ideas is a seed. Here is the forest composed of my ideas. So I named it `Jopus Forest`.
+## 🌳 Why such a named for it?
+This idea from “Apple Park” , So I named this `Wiki`. As we know, Each of my ideas is a seed. Here is the forest composed of my ideas. So I named it `Jopus Wiki Park`.
 
 ## 💡 Why build a personal knowledge base?
 
