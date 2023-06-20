@@ -3,8 +3,8 @@
 ---
 
 
-> [!quote] Sassoon (his opus)
-> **In me the tiger sniffs the rose.**[^1]
+> [!quote] [[Socrates\|Socrates]] (from [[Plato\|Plato]]'s Apology)
+> **The unexamined life is not worth living.**[^1]
 
 
 
@@ -22,5 +22,5 @@ In this park, each of my thoughts is a tree, growing from a seeding to maturity 
 
 This is an English composition project. Through this project, I aim to hone my English writing skills. I believe there is no means of expression that is more profound, more composed or freer than writing.
 
-[^1]: Siegfried Sassoon was perhaps the most innocent of the war poets. This verse is derived from his poem [In Me, Past, Present, Future meet](https://allpoetry.com/In-Me,-Past,-Present,-Future-meet).
+[^1]: This verse is derived from [[Socrates\|Socrates]].
 [^2]: Here, I'm using the word repo in place of the word [repository].
