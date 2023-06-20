@@ -8,7 +8,7 @@
 
 
 
-## 🐯Tiger Wiki 
+## 🌳Wiki Park
 
 [[Wiki Park\|Wiki Park]] is my digital park based on the Zettelkästen method. In this knowledge repo[^2], I record everything in my thoughts, including `book excerpt`, `knowledge`,`summaries` and `flash mind`.
 
