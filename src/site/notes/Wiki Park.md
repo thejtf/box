@@ -8,7 +8,7 @@
 [[Wiki Park\|Wiki Park]] is a digital park based on the Zettelkästen method. In this knowledge repo, I record everything I know, including reading notes, knowledge summaries, note-taking ect.
 
 ## 🌳 Why such a named for it?
-This idea from “Apple Park” , So I named this `Wiki`. As we know, Each of my ideas is a seed. Here is the forest composed of my ideas. So I named it `Jopus Wiki Park`.
+This idea is from “Apple Park” , So I created this `Wikipedia`. As we know, Each of my ideas is a seed. Here is the park composed of my ideas. So I named it `Jopus Wiki Park`.
 
 ## 💡 Why build a personal knowledge base?
 
