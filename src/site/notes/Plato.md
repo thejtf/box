@@ -69,9 +69,6 @@ Plato is a Classical Greek philosopher, mathematician, student of Socrates, writ
 
 - People are like dirt. They can either nourish you and help you grow as a person or they can stunt your growth and make you wilt and die.
 
-- I would teach children music, physics, and philosophy; but most importantly music, for the patterns in music and all the arts are the keys to learning
-
-- I would teach children music, physics, and philosophy; but most importantly music, for the patterns in music and all the arts are the keys to learning
-
+- I would teach children music, physics, and philosophy; but most importantly music, for the patterns in music and all the arts are the keys to learning.
 
 
