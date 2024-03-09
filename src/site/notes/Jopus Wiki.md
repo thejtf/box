@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"title":"Jopus Wiki","dg-home":true,"dg-note-icon":"signpost","dg-pinned":true,"permalink":"/Jopus Wiki/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"","updated":""}
+{"dg-publish":true,"title":"\"Jopus Wiki\"","dg-home":"true","dg-note-icon":"signpost","dg-pinned":"true","permalink":"/Jopus Wiki/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"","updated":""}
 ---
+
 
 
 > [!quote] [[苏格拉低\|苏格拉低]]（出自[[柏拉图\|柏拉图]]的申辩篇）
@@ -8,19 +9,18 @@
 
 
 
-## 🌳数字森林
+## 🌳 数字森林
 
-[[数字森林\|数字森林]]是我的个人数字卡片盒，方法是基于德国社会学家卢曼的卡片盒笔记法Zettelkasten。[^2], I record everything in my thoughts, including `书摘`, `知识`,`总结` 和 `闪念`.
-
-
-## 🪴 Thinking Tree
-
-In this park, each of my thoughts is a tree, growing from a seeding to maturity and even withering away. I record the [[Maturity Levels\|Maturity Levels]] of developing an idea by the stages of its growth.
+[[数字森林\|数字森林]]是我的个人的数字卡片盒，方法是基于德国社会学家卢曼的卡片盒笔记法Zettelkasten。[^2] 在这里记录我的很多想法，包括但不限于 `书摘`、 `知识`、`笔记` 和 `闪念`。
 
 
-## ✍️ English Writing
+## 🪴 常青笔记
 
-This is an English composition project. Through this project, I aim to hone my English writing skills. I believe there is no means of expression that is more profound, more composed or freer than writing.
+在这个数字卡片盒，每一个想法都是一棵树苗。从发芽到成熟，甚至是枯萎。按照想法的成长阶段记录其[[成熟度\|成熟度]]。
+
+## ✍️ 写作原则
+
+这是一种原子化笔记、一种以概念为导向的、彼此应该关联起来的、为自己写作而不是受众的笔记。这种对笔记写作的思考方式非同寻常，这从来不是临时性笔记。更是一种实践，更有效地发展洞见。真正重要的是"更好的思考"，笔记是知识的基本单元。
 
 [^1]: 这句名言来自古希腊著名哲学家 [[苏格拉低\|苏格拉低]]。
 [^2]: 卡片盒笔记法（德语：Zettelkasten）是一种做笔记的方法。
