@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Jopus Wiki","dg-home":"true","dg-note-icon":"signpost","dg-pinned":"true","permalink":"/Jopus Wiki/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"","updated":""}
+{"dg-publish":true,"title":"Jopus Wiki","dg-home":"true","dg-note-icon":"signpost","dg-pinned":"true","dg-path":"路标/说明.md","permalink":"/路标/说明/","pinned":"true","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"","updated":""}
 ---
 
 
